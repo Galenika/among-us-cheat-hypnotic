@@ -5,6 +5,9 @@ Hello, you've might've seen my v1 version of my among us internal. Yes, that was
 
 #### Use the 'Enable' function while in game or a lobby otherwise the game will crash!
 
+# Menu Preview
+![Test Image 8](https://cdn.discordapp.com/attachments/723335679555141714/761405695332581376/Capture.PNG)
+
 # Features (Local)
 - Auto Imposter (Host only still unfortunately)
 - Speed modifier
