@@ -8,7 +8,7 @@ Hello, you've might've seen my v1 version of my among us internal. Yes, that was
 # Menu Preview
 ![Test Image 8](https://cdn.discordapp.com/attachments/723335679555141714/761405695332581376/Capture.PNG)
 
-- Ignore ugly background color I used a imgui test environment for testing the D3D11 hook espacilly with implementing imgui l0l
+Ignore ugly background color I used a Imgui Test Environment for testing my D3D11 hook espacilly with implementing imgui lmao
 
 # Features (Local)
 - Auto Imposter (Host only still unfortunately)
